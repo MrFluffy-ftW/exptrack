@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MrFluffy-ftW/exptrack/static/css/main.142af9bf.css",
-    "main.js": "/MrFluffy-ftW/exptrack/static/js/main.f11ad960.js",
-    "static/js/787.062099e3.chunk.js": "/MrFluffy-ftW/exptrack/static/js/787.062099e3.chunk.js",
-    "index.html": "/MrFluffy-ftW/exptrack/index.html",
-    "main.142af9bf.css.map": "/MrFluffy-ftW/exptrack/static/css/main.142af9bf.css.map",
-    "main.f11ad960.js.map": "/MrFluffy-ftW/exptrack/static/js/main.f11ad960.js.map",
-    "787.062099e3.chunk.js.map": "/MrFluffy-ftW/exptrack/static/js/787.062099e3.chunk.js.map"
+    "main.css": "/exptrack/static/css/main.142af9bf.css",
+    "main.js": "/exptrack/static/js/main.0ea93500.js",
+    "static/js/787.062099e3.chunk.js": "/exptrack/static/js/787.062099e3.chunk.js",
+    "index.html": "/exptrack/index.html",
+    "main.142af9bf.css.map": "/exptrack/static/css/main.142af9bf.css.map",
+    "main.0ea93500.js.map": "/exptrack/static/js/main.0ea93500.js.map",
+    "787.062099e3.chunk.js.map": "/exptrack/static/js/787.062099e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.142af9bf.css",
-    "static/js/main.f11ad960.js"
+    "static/js/main.0ea93500.js"
   ]
 }
